@@ -50,5 +50,5 @@ Porto Alegre, Brasil
 ---
 
 <div align="center">
-<sub><sup>© Lucas Soares — construindo com propósito</sup></sub>
+<sub><sup>© Lucas Soares </sup></sub>
 </div>
