@@ -45,7 +45,7 @@ Porto Alegre, Brasil
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=f5c518)](https://linkedin.com/in/lucassoaresdev)
-[![Site](https://img.shields.io/badge/meusite.com.br-0d0d0d?style=flat-square&logo=safari&logoColor=f5c518)](https://meusite.com.br)
+
 
 ---
 
